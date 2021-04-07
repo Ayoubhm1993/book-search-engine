@@ -20,6 +20,9 @@
   "dependencies": {
     "if-env": "^1.0.4"
   },
+  "engines": {
+    "node": "10.16.0"
+},
   "devDependencies": {
     "concurrently": "^5.2.0"
   }
