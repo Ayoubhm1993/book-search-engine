@@ -12,6 +12,7 @@
   * [Contributor](#Contributor)
   * [License](#License)
   * [Test](#Test)
+  * [Technologies Used](#Technologies_Used)
   
   
   
@@ -46,7 +47,10 @@
   # Test
 
   Tested
+  
+  # Technologies Used
 
+  Node.js MongoDB  Express.js React.js GraphQl  Apollo-Server
   
   # Questions
 
